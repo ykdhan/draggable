@@ -40,7 +40,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gsap": "^3.10.4"
-  }
+  "devDependencies": {}
 }
